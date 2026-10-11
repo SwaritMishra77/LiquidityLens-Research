@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=75", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "liquiditylens"
+version = "0.3.0"
+description = "Point-in-time corporate operating-cash-flow forecasting research"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0,<3", "pandas>=2.2,<3", "scikit-learn>=1.6,<1.9", "scipy>=1.14,<2", "beautifulsoup4>=4.13,<5", "PyYAML>=6,<7", "matplotlib>=3.9,<4"]
+
+[project.optional-dependencies]
+deep = ["torch>=2.7,<2.9", "transformers>=4.55,<4.57", "safetensors>=0.6,<0.9"]
+test = ["pytest>=8.4,<9"]
+
+[project.scripts]
+liquiditylens = "liquiditylens.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+

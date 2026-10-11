@@ -1,0 +1,101 @@
+ticker,sector,rationale,cik
+WMT,retail,large general retailer,0000104169
+TGT,retail,general retailer,0000027419
+COST,retail,membership retailer,0000909832
+HD,retail,home improvement,0000354950
+LOW,retail,home improvement,0000060667
+BBY,retail,consumer electronics,0000764478
+M,retail,department store,0000794367
+KSS,retail,department store,0000885639
+JWN,retail,department store including ceased listing,0000072333
+DG,retail,discount retailer,0000029534
+DLTR,retail,discount retailer,0000935703
+ROST,retail,off price retailer,0000745732
+TJX,retail,off price retailer,0000109198
+BURL,retail,off price retailer,0001579298
+GPS,retail,apparel retailer legacy ticker may require manual CIK,0000039911
+ANF,retail,apparel retailer,0001018840
+AEO,retail,apparel retailer,0000919012
+URBN,retail,apparel retailer,0000912615
+DKS,retail,sporting goods,0001089063
+ULTA,retail,beauty retailer,0001403568
+AZO,retail,auto parts,0000866787
+ORLY,retail,auto parts,0000898173
+AAP,retail,auto parts,0001158449
+KR,retail,grocery retailer,0000056873
+WBA,retail,pharmacy including ceased listing,0001618921
+CAT,manufacturing,industrial machinery includes financing segment,0000018230
+DE,manufacturing,agricultural machinery includes financing segment,0000315189
+F,manufacturing,automotive includes financing segment,0000037996
+GM,manufacturing,automotive includes financing segment,0001467858
+NKE,manufacturing,apparel and footwear,0000320187
+CROX,manufacturing,footwear,0001334036
+MMM,manufacturing,diversified manufacturing,0000066740
+HON,manufacturing,industrial manufacturing,0000773840
+EMR,manufacturing,industrial equipment,0000032604
+ETN,manufacturing,electrical equipment,0001551182
+PH,manufacturing,motion technologies,0000076334
+ITW,manufacturing,industrial products,0000049826
+ROK,manufacturing,industrial automation,0001024478
+SWK,manufacturing,tools and equipment,0000093556
+WHR,manufacturing,home appliances,0000106640
+PCAR,manufacturing,commercial vehicles includes financing segment,0000075362
+CMI,manufacturing,engines and power systems,0000026172
+AGCO,manufacturing,agricultural equipment,0000880266
+CNH,manufacturing,agricultural equipment foreign issuer coverage risk,0001567094
+DOV,manufacturing,industrial equipment,0000029905
+GWW,manufacturing,industrial distribution sector boundary case,0000277135
+FAST,manufacturing,industrial distribution sector boundary case,0000815556
+GE,manufacturing,changed corporate perimeter,0000040545
+BA,manufacturing,aerospace,0000012927
+LMT,manufacturing,aerospace and defence,0000936468
+TSCO,retail,expanded issuer pilot; review business perimeter,0000916365
+FIVE,retail,expanded issuer pilot; review business perimeter,0001177609
+OLLI,retail,expanded issuer pilot; review business perimeter,0001639300
+WSM,retail,expanded issuer pilot; review business perimeter,0000719955
+RH,retail,expanded issuer pilot; review business perimeter,0001528849
+GME,retail,expanded issuer pilot; review business perimeter,0001326380
+HVT,retail,furniture retailer,0000216085
+HZO,retail,expanded issuer pilot; review business perimeter,0001057060
+CWH,retail,expanded issuer pilot; review business perimeter,0001669779
+BKE,retail,expanded issuer pilot; review business perimeter,0000885245
+DDS,retail,expanded issuer pilot; review business perimeter,0000028917
+CHWY,retail,expanded issuer pilot; review business perimeter,0001766502
+W,retail,online furniture retailer,0001616707
+FND,retail,specialty home-improvement retailer,0001507079
+CASY,retail,expanded issuer pilot; review business perimeter,0000726958
+SFM,retail,expanded issuer pilot; review business perimeter,0001575515
+ACI,retail,expanded issuer pilot; review business perimeter,0001646972
+GO,retail,expanded issuer pilot; review business perimeter,0001771515
+SBH,retail,expanded issuer pilot; review business perimeter,0001368458
+BOOT,retail,expanded issuer pilot; review business perimeter,0001610250
+ZUMZ,retail,expanded issuer pilot; review business perimeter,0001318008
+SIG,retail,expanded issuer pilot; review business perimeter,0000832988
+GCO,retail,expanded issuer pilot; review business perimeter,0000018498
+TLYS,retail,expanded issuer pilot; review business perimeter,0001524025
+PETS,retail,online pet-products retailer with pharmacy boundary,0001040130
+TXT,manufacturing,expanded issuer pilot; review business perimeter,0000217346
+NOC,manufacturing,expanded issuer pilot; review business perimeter,0001133421
+GD,manufacturing,expanded issuer pilot; review business perimeter,0000040533
+RTX,manufacturing,expanded issuer pilot; review business perimeter,0000101829
+HII,manufacturing,expanded issuer pilot; review business perimeter,0001501585
+TDG,manufacturing,expanded issuer pilot; review business perimeter,0001260221
+HEI,manufacturing,expanded issuer pilot; review business perimeter,0000046619
+PNR,manufacturing,"industrial equipment, foreign incorporation reporting risk",0000077360
+IR,manufacturing,expanded issuer pilot; review business perimeter,0001699150
+JCI,manufacturing,"industrial systems, foreign incorporation reporting risk",0000833444
+CARR,manufacturing,expanded issuer pilot; review business perimeter,0001783180
+OTIS,manufacturing,expanded issuer pilot; review business perimeter,0001781335
+MAS,manufacturing,expanded issuer pilot; review business perimeter,0000062996
+MLI,manufacturing,expanded issuer pilot; review business perimeter,0000089439
+ALSN,manufacturing,expanded issuer pilot; review business perimeter,0001411207
+OSK,manufacturing,expanded issuer pilot; review business perimeter,0000775158
+TKR,manufacturing,expanded issuer pilot; review business perimeter,0000098362
+RBC,manufacturing,"industrial bearings, ticker collision checked by current SEC registry",0001324948
+XYL,manufacturing,expanded issuer pilot; review business perimeter,0001524472
+IEX,manufacturing,expanded issuer pilot; review business perimeter,0000832101
+NDSN,manufacturing,expanded issuer pilot; review business perimeter,0000072331
+WAB,manufacturing,expanded issuer pilot; review business perimeter,0000943452
+WWD,manufacturing,expanded issuer pilot; review business perimeter,0000108312
+HOG,manufacturing,motorcycles including financial services segment,0000793952
+VMI,manufacturing,expanded issuer pilot; review business perimeter,0000102729

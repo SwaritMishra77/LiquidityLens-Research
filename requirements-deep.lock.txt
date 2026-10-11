@@ -1,0 +1,7 @@
+# Install CPU torch first using the official CPU index, as documented in README.
+torch==2.7.1
+transformers==4.55.4
+huggingface-hub==0.36.2
+tokenizers==0.21.4
+safetensors==0.8.0
+

@@ -1,0 +1,26 @@
+seed: 42
+prediction_start: "2015-01-01"
+prediction_end: "2025-12-31"
+data_cutoff: "2026-06-30"
+lookback: 8
+minimum_economic_lead_days: 14
+train_end: "2020-12-31"
+validation_end: "2022-12-31"
+calibration_end: "2024-12-31"
+test_end: "2025-12-31"
+unseen_company_fraction: 0.2
+interval_alpha: 0.2
+bootstrap_replicates: 400
+seeds: [42, 73, 101]
+epochs: 60
+patience: 10
+batch_size: 64
+learning_rate: 0.001
+hidden_size: 32
+text_model: "yiyanghkust/finbert-pretrain"
+text_revision: "88ab954a39ea6d3ce2b62cff086dd5ad1172c664"
+max_passages: 4
+max_tokens: 256
+text_start: "2015-01-01"
+text_companies: ["WMT", "TGT", "COST", "M", "KSS", "BBY", "CAT", "DE", "F", "GM", "NKE", "CROX", "TSCO", "FIVE", "WSM", "RH", "GME", "HZO", "TXT", "NOC", "GD", "RTX", "HII", "TDG"]
+

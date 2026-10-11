@@ -1,0 +1,52 @@
+ticker,sector,rationale
+WMT,retail,large general retailer
+TGT,retail,general retailer
+COST,retail,membership retailer
+HD,retail,home improvement
+LOW,retail,home improvement
+BBY,retail,consumer electronics
+M,retail,department store
+KSS,retail,department store
+JWN,retail,department store including ceased listing
+DG,retail,discount retailer
+DLTR,retail,discount retailer
+ROST,retail,off price retailer
+TJX,retail,off price retailer
+BURL,retail,off price retailer
+GPS,retail,apparel retailer legacy ticker may require manual CIK
+ANF,retail,apparel retailer
+AEO,retail,apparel retailer
+URBN,retail,apparel retailer
+DKS,retail,sporting goods
+ULTA,retail,beauty retailer
+AZO,retail,auto parts
+ORLY,retail,auto parts
+AAP,retail,auto parts
+KR,retail,grocery retailer
+WBA,retail,pharmacy including ceased listing
+CAT,manufacturing,industrial machinery includes financing segment
+DE,manufacturing,agricultural machinery includes financing segment
+F,manufacturing,automotive includes financing segment
+GM,manufacturing,automotive includes financing segment
+NKE,manufacturing,apparel and footwear
+CROX,manufacturing,footwear
+MMM,manufacturing,diversified manufacturing
+HON,manufacturing,industrial manufacturing
+EMR,manufacturing,industrial equipment
+ETN,manufacturing,electrical equipment
+PH,manufacturing,motion technologies
+ITW,manufacturing,industrial products
+ROK,manufacturing,industrial automation
+SWK,manufacturing,tools and equipment
+WHR,manufacturing,home appliances
+PCAR,manufacturing,commercial vehicles includes financing segment
+CMI,manufacturing,engines and power systems
+AGCO,manufacturing,agricultural equipment
+CNH,manufacturing,agricultural equipment foreign issuer coverage risk
+DOV,manufacturing,industrial equipment
+GWW,manufacturing,industrial distribution sector boundary case
+FAST,manufacturing,industrial distribution sector boundary case
+GE,manufacturing,changed corporate perimeter
+BA,manufacturing,aerospace
+LMT,manufacturing,aerospace and defence
+

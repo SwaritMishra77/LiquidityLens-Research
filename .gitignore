@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+data/raw/
+data/processed/
+artifacts/*
+!artifacts/README.md
+reports/*
+!reports/README.md
+!reports/RESULTS.md
+demo/liquiditylens_demo.html
+.env
+
